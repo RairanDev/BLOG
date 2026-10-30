@@ -11,6 +11,7 @@ __pycache__/
 # Arquivos privados
 .env
 .env.*
+!.env.example
 
 # Banco de dados
 *.sqlite3
